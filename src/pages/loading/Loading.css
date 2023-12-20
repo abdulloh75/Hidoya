@@ -1,0 +1,53 @@
+.sudo {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@keyframes ldio-9qa5etgcq2 {
+  0% { transform: scale(1.1500000000000001) }
+  100% { transform: scale(1) }
+}
+        .ldio-9qa5etgcq2 div {
+          position: absolute;
+        width: 60px;
+        height: 60px;
+        top: 33.333333333333336px;
+        left: 33.333333333333336px;
+        background: #2196f3;
+        animation: ldio-9qa5etgcq2 0.5434782608695652s cubic-bezier(0,0.5,0.5,1) infinite;
+        animation-delay: -0.16304347826086954s;
+}
+        .ldio-9qa5etgcq2 div:nth-child(2) {
+          top: 33.333333333333336px;
+        left: 100.66666666666666px;
+        background: #2196f3;
+        animation-delay: -0.10869565217391304s;
+}
+        .ldio-9qa5etgcq2 div:nth-child(3) {
+          top: 99.66666666666666px;
+        left: 33.333333333333336px;
+        background: #2196f3;
+        animation-delay: 0s;
+}
+        .ldio-9qa5etgcq2 div:nth-child(4) {
+          top: 99.66666666666666px;
+        left: 100.66666666666666px;
+        background: #2196f3;
+        animation-delay: -0.05434782608695652s;
+}
+        .loadingio-spinner-cube-v85oae7nhzh {
+          width: 200px;
+        height: 200px;
+        display: inline-block;
+        overflow: hidden;
+}
+        .ldio-9qa5etgcq2 {
+          width: 100%;
+        height: 100%;
+        position: relative;
+        transform: translateZ(0) scale(1);
+        backface-visibility: hidden;
+        transform-origin: 0 0; /* see note above */
+}
+        .ldio-9qa5etgcq2 div {box-sizing: content-box; }

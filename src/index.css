@@ -1,0 +1,7 @@
+.ant-modal-footer {
+    display: none !important;
+}
+
+.ant-btn.ant-btn-primary.ant-btn-sm {
+  background-color: #2196F3;
+}
